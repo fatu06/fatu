@@ -1,0 +1,78 @@
+body
+{
+    background-color: rgb(188, 188, 235);
+}
+
+h2
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(145, 124, 160);
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    border: 20px;
+    border-bottom: white 3px solid;
+    margin: 0;
+    margin-top: -16px;
+
+}
+
+#form
+{
+    margin-top: 25px;
+}
+
+button
+ {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 30px auto;
+    background: thistle;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    font-size: 17px;
+    color: white;
+  }
+
+  button:hover
+  {
+    background-color: rgb(119, 67, 99);
+    transition: background-color 1s ease-out;
+
+  }
+
+.container
+{
+    font-family:monospace;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    background-color:rgb(145, 124, 160);
+    border: thistle 15px solid;
+    border: 25px;
+    height: 400px;
+    width: 30%;
+    margin-left: 37%;
+    position: relative;
+    padding-top: 1.4em;
+    margin-top: 15em;
+}
+footer{
+    background-color: rgb(145, 124, 160);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;;
+    margin-top: 8%;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    border:thistle 3px solid;
+}
+
